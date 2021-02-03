@@ -1,6 +1,6 @@
 {
-	"version": "13",
-	"download": "https://crismod.ml",
+	"version": "13.0",
+	"download": "https://crismod.ml/mpro.html",
 	"update": [
 		{
 			"languaje": "es",
@@ -9,6 +9,10 @@
 		{
 			"languaje": "en",
 			"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html"
+		},
+		{
+			"languaje": "pt",
+			"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-pt.html"
 		}
 	]
 }
