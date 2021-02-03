@@ -1,5 +1,5 @@
 {
-	"version": "0.1",
+	"version": "0.0",
 	"download": "https://crismod.ml/mpro.html",
 	"update": [
 		{
