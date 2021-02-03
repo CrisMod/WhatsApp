@@ -1,6 +1,6 @@
 {
 	"version": "13",
-	"download": "https://crismod.ml/mpro.html",
+	"download": "https://crismod.ml",
 	"update": [
 		{
 			"languaje": "es",
