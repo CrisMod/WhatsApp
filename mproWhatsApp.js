@@ -13,6 +13,10 @@
 		{
 			"languaje": "pt-BR",
 			"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-pt.html"
+		},
+		{
+			"languaje": "pt",
+			"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-pt.html"
 		}
 	]
 }
