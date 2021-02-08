@@ -4,7 +4,7 @@
 	"update": [
 		{
 			"languaje": "es",
-			"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-es.html"
+			"changelog": "http://app.crismod.ml/update/mpro/changelog-es.html"
 		},
 		{
 			"languaje": "en",
