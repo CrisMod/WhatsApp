@@ -1,6 +1,6 @@
 {
-	"version": "13.2",
-	"download": "https://crismod.ml/mpro.html",
+	"version": "13.3",
+	"download": "http://movincle.com/6az5",
 	"update": [
 		{
 			"languaje": "es",
@@ -12,6 +12,10 @@
 		},
 		{
 			"languaje": "pt",
+			"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-pt.html"
+		},
+		{
+			"languaje": "pt-BR",
 			"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-pt.html"
 		}
 	]
