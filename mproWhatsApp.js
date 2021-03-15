@@ -1,6 +1,6 @@
 {
-	"version": "14.0",
-	"download": "https://www.crismod.ml/set_lang_mpro.html",
+	"version": "14.1",
+	"download": "http://apticirl.com/6p7P",
 	"update": [
 		{
 			"languaje": "es",
