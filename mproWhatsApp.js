@@ -1,6 +1,6 @@
 {
-	"version": "14.1",
-	"download": "http://apticirl.com/6p7P",
+	"version": "14.2",
+	"download": "http://apticirl.com/8E8U",
 	"update": [
 		{
 			"languaje": "es",
