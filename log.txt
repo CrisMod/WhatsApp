@@ -1,0 +1,9 @@
+{"version_code":999999999,"content":"
+<p>WhatsApp M Pro 14.4</p>
+
+<li> [Nuevo] Opcion para limpiar los videos acortados con el StatusSplit</li>
+<li> [Nuevo] Opcion para limpiar los emojis recientes (Desde el menu de los chats)</li>
+
+ 
+","url":"https://crismod.ml/mpro.html"
+}
