@@ -1,6 +1,6 @@
 {
-	"version": "2.21.3.19 v14.2",
-	"download": "http://apticirl.com/6p7P",
+	"version": "2.21.6.17",
+	"download": "http://fumacrom.com/8tU1",
 	"update": [
 		{
 			"languaje": "es",
