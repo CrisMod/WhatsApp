@@ -1,6 +1,6 @@
 {
-	"version": "15.0",
-	"download": "http://apticirl.com/8E8U",
+	"version": "15.1",
+	"download": "http://fumacrom.com/AsRK",
 	"update": [
 		{
 			"languaje": "es",
