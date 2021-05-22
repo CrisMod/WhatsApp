@@ -1,6 +1,6 @@
 {
 	"version": "15.1",
-	"download": "http://fumacrom.com/AsRK",
+	"download": "http://fumacrom.com/Tr2F",
 	"update": [
 		{
 			"languaje": "es",
